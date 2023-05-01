@@ -2,7 +2,7 @@
 //  RMSearchResultType.swift
 //  RickAndMorty
 //
-//  Created by Afraz Siddiqui on 2/26/23.
+//  Created by Tyrone Collins on 03/03/23 on 2/26/23.
 //
 
 import Foundation

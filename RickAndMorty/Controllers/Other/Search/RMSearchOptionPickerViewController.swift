@@ -2,7 +2,7 @@
 //  RMSearchOptionPickerViewController.swift
 //  RickAndMorty
 //
-//  Created by Afraz Siddiqui on 1/2/23.
+//  Created by Tyrone Collins on 03/03/23 on 1/2/23.
 //
 
 import UIKit

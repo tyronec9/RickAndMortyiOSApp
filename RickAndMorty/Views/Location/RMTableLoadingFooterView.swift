@@ -2,7 +2,7 @@
 //  RMTableLoadingFooterView.swift
 //  RickAndMorty
 //
-//  Created by Afraz Siddiqui on 3/11/23.
+//  Created by Tyrone Collins on 03/03/23 on 3/11/23.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  RMService.swift
 //  RickAndMorty
 //
-//  Created by Afraz Siddiqui on 12/23/22.
+//  Created by Tyrone Collins on 03/03/23 on 12/23/22.
 //
 
 import Foundation
